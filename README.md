@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhinaviscrazy
 - 👀 I’m interested in programming  
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project if you find me of any use :)
 - 📫 How to reach me - @abhinaviscrazy
 
 <!---
